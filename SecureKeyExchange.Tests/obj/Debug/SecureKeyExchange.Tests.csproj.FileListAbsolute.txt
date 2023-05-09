@@ -1,0 +1,10 @@
+C:\Users\L11Y10W34\Downloads\SecureKeyExchange\SecureKeyExchange.Tests\bin\Debug\SecureKeyExchange.Tests.dll
+C:\Users\L11Y10W34\Downloads\SecureKeyExchange\SecureKeyExchange.Tests\bin\Debug\SecureKeyExchange.Tests.pdb
+C:\Users\L11Y10W34\Downloads\SecureKeyExchange\SecureKeyExchange.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\L11Y10W34\Downloads\SecureKeyExchange\SecureKeyExchange.Tests\bin\Debug\SecureKeyExchange.dll
+C:\Users\L11Y10W34\Downloads\SecureKeyExchange\SecureKeyExchange.Tests\bin\Debug\SecureKeyExchange.pdb
+C:\Users\L11Y10W34\Downloads\SecureKeyExchange\SecureKeyExchange.Tests\obj\Debug\SecureKeyExchange.Tests.csproj.AssemblyReference.cache
+C:\Users\L11Y10W34\Downloads\SecureKeyExchange\SecureKeyExchange.Tests\obj\Debug\SecureKeyExchange.Tests.csproj.CoreCompileInputs.cache
+C:\Users\L11Y10W34\Downloads\SecureKeyExchange\SecureKeyExchange.Tests\obj\Debug\SecureKeyExchange.Tests.csproj.CopyComplete
+C:\Users\L11Y10W34\Downloads\SecureKeyExchange\SecureKeyExchange.Tests\obj\Debug\SecureKeyExchange.Tests.dll
+C:\Users\L11Y10W34\Downloads\SecureKeyExchange\SecureKeyExchange.Tests\obj\Debug\SecureKeyExchange.Tests.pdb
